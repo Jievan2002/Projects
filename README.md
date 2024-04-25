@@ -1,0 +1,1 @@
+open html and css together and download all the given images into a single file called Images. then finally run the program . all the api key and url used are valid only for 1 month peroid of time so student have to create their own api key using open weather maps and create account there to get ur own apikey along with the apiurl thats been used in this project
